@@ -1,2 +1,3 @@
-# KaunWho
-iOS Game
+# 🎭 KaunWho - Guess Who IRL
+
+Currently building this...
